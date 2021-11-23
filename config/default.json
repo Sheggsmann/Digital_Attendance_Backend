@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "a$dlmo124def4c534lrerfffcma",
+    "db": "mongodb://localhost:27017/digital_attendance"
+}

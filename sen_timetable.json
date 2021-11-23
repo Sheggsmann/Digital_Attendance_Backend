@@ -1,0 +1,172 @@
+{
+    "monday": [
+        {
+            "courseCode": "GST 206",
+            "from": "8 AM",
+            "to": "10 AM"
+        },
+        {
+            "courseCode": "MTH 202",
+            "from": "10 AM",
+            "to": "11 AM"
+        },
+        {
+            "courseCode": "CSC 205",
+            "from": "11 AM",
+            "to": "1 PM"
+        },
+        {
+            "courseCode": "SEN 206",
+            "from": "1 PM",
+            "to": "3 PM"
+        },
+        {
+            "courseCode": "CSC 203",
+            "from": "3 PM",
+            "to": "4 PM"
+        },
+        {
+            "courseCode": "",
+            "from": "4 PM",
+            "to": "5 PM"
+        }
+    ],
+    "tuesday": [
+        {
+            "courseCode": "SEN 204",
+            "from": "8 AM",
+            "to": "10 AM"
+        },
+        {
+            "courseCode": "CSC 207",
+            "from": "10 AM",
+            "to": "11 AM"
+        },
+        {
+            "courseCode": "CSC 207",
+            "from": "11 AM",
+            "to": "12 PM"
+        },
+        {
+            "courseCode": "GST 206",
+            "from": "12 PM",
+            "to": "2 PM"
+        },
+        {
+            "courseCode": "CYB 202",
+            "from": "2 PM",
+            "to": "3 PM"
+        },
+        {
+            "courseCode": "CSC 208",
+            "from": "3 PM",
+            "to": "4 PM"
+        },
+        {
+            "courseCode": "CSC 208",
+            "from": "4 PM",
+            "to": "5 PM"
+        }
+    ],
+    "wednesday": [
+        {
+            "courseCode": "GST 107",
+            "from": "8 AM",
+            "to": "10 AM"
+        },
+        {
+            "courseCode": "CSC 203",
+            "from": "10 AM",
+            "to": "12 PM"
+        },
+        {
+            "courseCode": "SEN 205",
+            "from": "12 PM",
+            "to": "1 PM"
+        },
+        {
+            "courseCode": "SEN 201",
+            "from": "1 PM",
+            "to": "3 PM"
+        },
+        {
+            "courseCode": "MTH 202",
+            "from": "3 PM",
+            "to": "4 PM"
+        },
+        {
+            "courseCode": "",
+            "from": "4 PM",
+            "to": "5 PM"
+        }
+    ],
+    "thursday": [
+        {
+            "courseCode": "CSC 208",
+            "from": "8 AM",
+            "to": "9 AM"
+        },
+        {
+            "courseCode": "MTH 202",
+            "from": "9 AM",
+            "to": "10 AM"
+        },
+        {
+            "courseCode": "MEE 204",
+            "from": "10 AM",
+            "to": "11 AM"
+        },
+        {
+            "courseCode": "MTH 201",
+            "from": "11 AM",
+            "to": "1 PM"
+        },
+        {
+            "courseCode": "MEE 204",
+            "from": "1 PM",
+            "to": "3 PM"
+        },
+        {
+            "courseCode": "",
+            "from": "3 PM",
+            "to": "5 PM"
+        }
+    ],
+    "friday": [
+        {
+            "courseCode": "CSC 101",
+            "from": "8 AM",
+            "to": "9 AM"
+        },
+        {
+            "courseCode": "CSE 203",
+            "from": "9 AM",
+            "to": "10 AM"
+        },
+        {
+            "courseCode": "CSE 203",
+            "from": "10 AM",
+            "to": "12 PM"
+        },
+        {
+            "courseCode": "CSC 207",
+            "from": "12 PM",
+            "to": "1 PM"
+        },
+        {
+            "courseCode": "JUMAT SERVICE",
+            "from": "1 PM",
+            "to": "3 PM"
+        },
+        {
+            "courseCode": "MTH 201",
+            "from": "3 PM",
+            "to": "4 PM"
+        },
+        {
+            "courseCode": "",
+            "from": "4 PM",
+            "to": "5 PM"
+        }
+    ]
+}
